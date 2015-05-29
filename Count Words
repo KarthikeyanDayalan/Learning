@@ -1,0 +1,31 @@
+/*Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.*/
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.HashMap;
+import java.util.Map.Entry;
+import java.util.Scanner;
+
+public class CountWords {
+	public static void main(String[] args) throws FileNotFoundException{
+		File file = new File(args[0]);
+		Scanner in = new Scanner(file);
+		String input;
+		int total = 0;
+		HashMap<String, Integer> table = new HashMap<String, Integer>();
+		while(in.hasNext()){
+			input = in.next();
+			if(table.containsKey(input)){
+				table.put(input, table.get(input) + 1);
+			}else{
+				table.put(input, 1);
+			}
+			total++;
+		}
+		System.out.println("Total words in a file:  "+total);
+		for (Entry<String, Integer> entry : table.entrySet()) {
+		    System.out.println(entry.getKey()+"  :   "+entry.getValue());
+		}
+		in.close();
+	}
+}
+
