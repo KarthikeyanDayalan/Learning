@@ -1,0 +1,21 @@
+/*Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”*/
+import java.util.Scanner;
+
+public class Palindrome {
+	public static void main(String[] args){
+		Scanner in = new Scanner(System.in);
+		String input = in.nextLine();
+		int i = 0, length = input.length();
+		for(i = 0; i < length / 2; i++){
+			if(input.charAt(i) != input.charAt(length - 1 - i)){
+				break;
+			}
+		}
+		if(i == length / 2){
+			System.out.println("Palindrome");
+		}else{
+			System.out.println("Not a Palindrome");
+		}
+		in.close();
+	}
+}
