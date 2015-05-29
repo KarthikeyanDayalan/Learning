@@ -1,0 +1,23 @@
+/*Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an Englishword the initial consonant sound is transposed to the end of the word 
+ * and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+ * Add "ay" at the end of consonants
+ * Add "way" at the end of vowels*/
+
+import java.util.Scanner;
+
+public class PigLatin {
+	public static void main(String[] args){
+		Scanner in = new Scanner(System.in);
+		String word = in.nextLine();
+		String consonant = "ay";
+		String vowel = "way";
+		String output;
+		if(word.charAt(0) == 'a' || word.charAt(0) == 'e' || word.charAt(0) == 'i' || word.charAt(0) == 'o' || word.charAt(0) == 'u'){
+			output = word.substring(1, word.length()) + word.charAt(0) + vowel;
+		}else{
+			output = word.substring(1, word.length()) + word.charAt(0) + consonant;
+		}
+		System.out.println("Input: "+word+" \t output: "+output);
+		in.close();
+	}
+}
