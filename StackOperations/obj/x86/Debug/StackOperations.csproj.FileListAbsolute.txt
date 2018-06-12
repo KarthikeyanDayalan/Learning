@@ -1,0 +1,9 @@
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\bin\Debug\StackOperations.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\bin\Debug\StackOperations.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\bin\Debug\ReverseALinkedList.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\bin\Debug\ReverseALinkedList.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\obj\x86\Debug\StackOperations.csprojResolveAssemblyReference.cache
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\obj\x86\Debug\StackOperations.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\obj\x86\Debug\StackOperations.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\bin\Debug\QueueOperations.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\StackOperations\bin\Debug\QueueOperations.pdb

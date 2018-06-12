@@ -1,0 +1,4 @@
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\String_Permutation\bin\Debug\String_Permutation.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\String_Permutation\bin\Debug\String_Permutation.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\String_Permutation\obj\x86\Debug\String_Permutation.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\String_Permutation\obj\x86\Debug\String_Permutation.pdb

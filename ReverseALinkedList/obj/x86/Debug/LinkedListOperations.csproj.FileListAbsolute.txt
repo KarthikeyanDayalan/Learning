@@ -1,0 +1,4 @@
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\ReverseALinkedList\obj\x86\Debug\ReverseALinkedList.exe
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\ReverseALinkedList\bin\Debug\ReverseALinkedList.exe
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\ReverseALinkedList\bin\Debug\ReverseALinkedList.pdb
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\ReverseALinkedList\obj\x86\Debug\ReverseALinkedList.pdb

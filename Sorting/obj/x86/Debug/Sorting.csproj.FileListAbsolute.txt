@@ -1,0 +1,4 @@
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\Sorting\bin\Debug\Sorting.exe
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\Sorting\bin\Debug\Sorting.pdb
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\Sorting\obj\x86\Debug\Sorting.exe
+c:\users\dayalak\documents\visual studio 2010\Projects\Preparation\Sorting\obj\x86\Debug\Sorting.pdb

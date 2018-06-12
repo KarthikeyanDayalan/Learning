@@ -1,0 +1,7 @@
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\bin\Debug\QueueOperations.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\bin\Debug\QueueOperations.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\obj\x86\Debug\QueueOperations.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\obj\x86\Debug\QueueOperations.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\bin\Debug\ReverseALinkedList.exe
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\bin\Debug\ReverseALinkedList.pdb
+C:\Users\dayalak\Documents\Visual Studio 2010\Projects\Preparation\QueueOperations\obj\x86\Debug\QueueOperations.csprojResolveAssemblyReference.cache
